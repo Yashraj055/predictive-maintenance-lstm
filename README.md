@@ -19,7 +19,7 @@ Run-to-failure simulations
 Realistic noise and operating conditions
 
 Dataset is not included in the repo due to size.
-Place raw files inside data/raw/.
+
 
 * Project Structure
 
