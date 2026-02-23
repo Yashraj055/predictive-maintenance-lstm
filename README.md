@@ -51,4 +51,4 @@ predictive-maintenance-lstm/
 
 Yash Raj Singh
 AI / ML Enthusiast
-📌 Focus: Predictive Maintenance, Deep Learning, Time-Series Analysis
+:- Focus: Predictive Maintenance, Deep Learning, Time-Series Analysis
