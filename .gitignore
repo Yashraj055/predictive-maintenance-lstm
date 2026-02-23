@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Data & outputs
+data/
+models/
+results/
+
+# OS files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
